@@ -22,7 +22,7 @@ public class Persona {
 	}
 
 	public String getNombre(){
-		return naombre;
+		return nombre;
 	}
 
 	public void setNombre(String nombre){
